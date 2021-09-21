@@ -43,19 +43,19 @@ actions:
 
 responses:
   utter_greet:
-  - text: "Hey!"
-  - text: "Hello! How can I help you?"
+  - text: "Hola hola!"
+  - text: "Hola! Como puedo ayudar?"
 
   utter_goodbye:
-  - text: "Bye"
-  - text: "Goodbye. See you soon."
+  - text: "Saludos"
+  - text: "Bye.Ojala nos veamos pront."
 
   utter_ask_rephrase:
-  - text: "Sorry, I'm not sure I understand. Can you rephrase?"
-  - text: "Can you please rephrase? I did not got that."
+  - text: "Perdon, no entendi eso"
+  - text: "Disculpame, lo podrias decir de otra manera"
 
   utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
+  - text: "Por supuesto que soy un bot!"
 
 
 session_config:

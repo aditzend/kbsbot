@@ -1,0 +1,16 @@
+{
+    "hotel": [
+        {
+            "id": 0,
+            "name": "Lagomar",
+            "has_wifi": "En el hotel hay wifi",
+            "has_cable": "Por supuesto, 113 canales"
+        },
+        {
+            "id": 1,
+            "name": "Lagosol",
+            "has_wifi": "Por el momento no se encuentra disponible el wifi",
+            "has_cable": "Por el momento solo tv de aire"
+        }
+    ]
+}
